@@ -44,6 +44,7 @@ const NewsDetail = (props: NewsDetailProps): JSX.Element => {
           </div>
         </div>
       </div>
+      <p>Added text...</p>
     </section>
   );
 };
