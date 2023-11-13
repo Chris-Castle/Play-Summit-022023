@@ -27,6 +27,7 @@ const NewsDetail = (props: NewsDetailProps): JSX.Element => {
       <div className="section-content left-content">
         <div className="container">
           <div className="left-column">
+            <h2>Hello World...</h2>
             <Image field={props.fields?.Image} alt={props.fields?.Title?.value} />
           </div>
           <div className="right-column">
